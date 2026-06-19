@@ -51,21 +51,9 @@ I am always eager to learn new tools, collaborate on innovative projects, and co
 ### Programming Languages
 - Python, Java, SQL
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-
 ### Data Science & Machine Learning
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Data Visualization
-- Natural Language Processing (NLP)
+- NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+- Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization, Natural Language Processing (NLP)
 
 ### Machine Learning Algorithms
 
@@ -81,11 +69,7 @@ I am always eager to learn new tools, collaborate on innovative projects, and co
 - Random Forest Classification
 
 ### Business Intelligence
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- ETL
+- Power BI, Power Query, DAX, Data Modeling, ETL
 
 ### Databases
 - MySQL

@@ -49,9 +49,7 @@ I am always eager to learn new tools, collaborate on innovative projects, and co
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- Python
-- Java
-- SQL
+- Python, Java, SQL
 
 ### Web Technologies
 - HTML

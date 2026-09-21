@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi 👋, I'm Akhil Tej Sarma Kraleti
+# I'm Akhil Tej Sarma Kraleti
 
 ### Computer Science Undergraduate | Data Science Enthusiast | Machine Learning Learner
 
